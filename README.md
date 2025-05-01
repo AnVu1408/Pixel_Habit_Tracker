@@ -1,6 +1,4 @@
-# Pixel_Habit_Tracker
-Here's a sample `README.md` file for your Pixela graph tracking script:
-
+# Pixela_Habit_Tracker
 ---
 
 # 📈 Pixela Coding Activity Tracker
